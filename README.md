@@ -7,3 +7,5 @@ This is an 84HP 6U eurorack case which can be laser cut from 3mm thick materials
 - Adjust the design to include mounting holes and cutout for Doepfer A-100 DIY Kit #1 power supply
 - Actually cut and assemble the case
 - Take photos and include them in this repository
+
+![Autodesk Viewer screenshot](https://user-images.githubusercontent.com/7497084/81469797-bc43e980-91ef-11ea-8b42-15be90267b12.png)
