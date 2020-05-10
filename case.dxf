@@ -91,7 +91,7 @@ Standard
   9
 $CLAYER
   8
-Back
+Sides
   9
 $CELTYPE
   6
@@ -7067,7 +7067,7 @@ LWPOLYLINE
 100
 AcDbEntity
   8
-Back
+Sides
   6
 ByLayer
  62
@@ -7077,7 +7077,7 @@ ByLayer
 100
 AcDbPolyline
  90
-    4
+    5
  70
     1
  43
@@ -7092,6 +7092,10 @@ AcDbPolyline
 2066.408576524766
  10
 492.219210045301
+ 20
+2081.408576524766
+ 10
+512.219210045301
  20
 2081.408576524766
  10
